@@ -8,3 +8,6 @@
 * Pudi
 * Ghee
 * Chatni
+
+## Thatte Idly
+* Idly Batter 
