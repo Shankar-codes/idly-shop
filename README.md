@@ -22,3 +22,4 @@
 * rava mixed
 * Carrot
 * beetroot
+* mint
