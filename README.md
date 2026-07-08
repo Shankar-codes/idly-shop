@@ -21,3 +21,4 @@
 * Idly Batter
 * rava mixed
 * Carrot
+* beetroot
