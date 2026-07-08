@@ -11,3 +11,4 @@
 
 ## Mallige Idly
 * Ultrasoft
+* Spongy texture
