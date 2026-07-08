@@ -7,3 +7,4 @@
 ## Ghee Pudi Idly
 * Pudi
 * Ghee
+* Chatni
