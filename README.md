@@ -18,3 +18,5 @@
 * Spongy texture
 
 ## Rava Idly
+* Idly Batter
+
