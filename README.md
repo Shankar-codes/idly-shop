@@ -9,6 +9,12 @@
 * Ghee
 * Chatni
 
+<<<<<<< HEAD
 ## Thatte Idly
 * Idly Batter 
 * Added More batter in to the Plate
+=======
+## Mallige Idly
+* Ultrasoft
+* Spongy texture
+>>>>>>> main
