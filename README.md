@@ -11,4 +11,4 @@
 
 ## Thatte Idly
 * Idly Batter 
-* Added batter in to the Plate
+* Added More batter in to the Plate
