@@ -12,3 +12,6 @@
 ## Thatte Idly
 * Idly Batter 
 * Added batter in to the Plate
+## Mallige Idly
+* Ultrasoft
+* Spongy texture
