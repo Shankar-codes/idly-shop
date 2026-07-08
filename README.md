@@ -6,3 +6,4 @@
 
 ## Ghee Pudi Idly
 * Pudi
+* Ghee
