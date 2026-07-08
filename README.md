@@ -11,6 +11,7 @@
 
 ## Thatte Idly
 * Idly Batter 
+* Added More batter in to the Plate
 * Added batter in to the Plate
 ## Mallige Idly
 * Ultrasoft
